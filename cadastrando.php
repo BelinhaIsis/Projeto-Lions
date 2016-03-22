@@ -39,4 +39,4 @@ VALUES ('$nome','$nomeConjuge','naturalidade','codigoClube','$distrito', '$dataN
 echo "<center><h1>Cadastro realizado com sucesso!!!</h1></center>";
 ?>
 </body>
-</html>
+</html>  
